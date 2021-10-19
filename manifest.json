@@ -15,6 +15,5 @@
       "js": ["contentscript.min.js"],
       "matches": ["*://mail.google.com/*"]
   }],
-  "web_accessible_resources": ["script.min.js"],
-  "permissions": ["tabs"]
+  "web_accessible_resources": ["script.min.js"]
 }
