@@ -11,6 +11,11 @@
     "default_title": "Gmail POP3 Auto Refresh",
     "default_icon": "icon.png"
   },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "arandomemailforaddon@example.org"
+    }
+  },
   "content_scripts": [
     {
       "js": ["contentscript.min.js"],
