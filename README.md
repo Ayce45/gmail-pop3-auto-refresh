@@ -1,4 +1,9 @@
 # gmail-pop3-auto-refresh
+![Chrome Web Store](https://img.shields.io/chrome-web-store/users/dcgondciahimhomfomnnpocjflglcppa?label=chrome-users&color=brightgreen)
+![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/dcgondciahimhomfomnnpocjflglcppa?label=chrome-rating&color=brightgreen)
+![Mozilla Add-on](https://img.shields.io/amo/users/gmail-pop3-auto-refresh?label=firefox-users&color=brightgreen)
+![Mozilla Add-on](https://img.shields.io/amo/rating/gmail-pop3-auto-refresh?label=firefox-rating&color=brightgreen)
+
 Refresh unlimited POP3 email accounts of Gmail with a frequency of one minute for free.
 - Chrome: https://chrome.google.com/webstore/detail/gmail-pop3-auto-refresh/dcgondciahimhomfomnnpocjflglcppa
 - Firefox: https://addons.mozilla.org/fr/firefox/addon/gmail-pop3-auto-refresh/
