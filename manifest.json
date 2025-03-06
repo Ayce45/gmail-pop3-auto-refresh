@@ -5,7 +5,6 @@
   "description": "Refresh unlimited POP3 email accounts of Gmail with a frequency of one minute for free.",
   "permissions": [
     "tabs",
-    "scripting",
     "alarms"
   ],
   "background": {
