@@ -1,26 +1,22 @@
 {
+  "manifest_version": 3,
   "name": "Gmail POP3 Auto Refresh",
+  "version": "2.0",
   "description": "Refresh unlimited POP3 email accounts of Gmail with a frequency of one minute for free.",
-  "version": "1.4",
-  "manifest_version": 2,
+  "permissions": [
+    "tabs",
+    "alarms"
+  ],
   "background": {
-    "scripts": ["background.min.js"],
-    "persistent": false
+    "service_worker": "background.js"
   },
-  "browser_action": {
-    "default_title": "Gmail POP3 Auto Refresh",
-    "default_icon": "icon.png"
-  },
-  "browser_specific_settings": {
-    "gecko": {
-      "id": "arandomemailforaddon@example.org"
-    }
+  "icons": {
+    "128": "icon.png"
   },
   "content_scripts": [
     {
-      "js": ["contentscript.min.js"],
-      "matches": ["*://mail.google.com/*"]
+      "matches": ["*://mail.google.com/*"],
+      "js": ["content.js"]
     }
-  ],
-  "web_accessible_resources": ["script.min.js"]
+  ]
 }
