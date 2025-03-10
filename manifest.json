@@ -5,7 +5,8 @@
   "description": "Refresh unlimited POP3 email accounts of Gmail with a frequency of one minute for free.",
   "permissions": [
     "tabs",
-    "alarms"
+    "alarms",
+    "storage"
   ],
   "content_security_policy": {
     "extension_pages": "script-src 'self'; object-src 'self'"
