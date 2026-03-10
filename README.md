@@ -1,3 +1,5 @@
+# END OF LIFE 2027 https://support.google.com/mail/answer/16604719
+
 # gmail-pop3-auto-refresh
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/dcgondciahimhomfomnnpocjflglcppa?label=chrome-users&color=brightgreen)
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/dcgondciahimhomfomnnpocjflglcppa?label=chrome-rating&color=brightgreen)
